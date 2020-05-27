@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Background\Stars\Back\000.png</Source>
+      <Name>Images\Background\Stars\Back\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\000.xnb</Output>
+      <Time>2014-05-14T14:56:43.423163+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\001.png</Source>
+      <Name>Images\Background\Stars\Back\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\001.xnb</Output>
+      <Time>2014-05-29T19:27:48.583456+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\002.png</Source>
+      <Name>Images\Background\Stars\Back\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\002.xnb</Output>
+      <Time>2014-05-29T19:28:20.704179+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\003.png</Source>
+      <Name>Images\Background\Stars\Back\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\003.xnb</Output>
+      <Time>2014-05-29T19:28:54.506211+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\004.png</Source>
+      <Name>Images\Background\Stars\Back\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\004.xnb</Output>
+      <Time>2014-05-29T19:38:38.404841+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\005.png</Source>
+      <Name>Images\Background\Stars\Back\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\005.xnb</Output>
+      <Time>2014-05-29T19:38:25.822129+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\006.png</Source>
+      <Name>Images\Background\Stars\Back\006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\006.xnb</Output>
+      <Time>2014-05-29T19:38:05.172155+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\007.png</Source>
+      <Name>Images\Background\Stars\Back\007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\007.xnb</Output>
+      <Time>2014-05-29T19:37:45.01393+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\008.png</Source>
+      <Name>Images\Background\Stars\Back\008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\008.xnb</Output>
+      <Time>2014-05-29T19:52:36.775267+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\009.png</Source>
+      <Name>Images\Background\Stars\Back\009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\009.xnb</Output>
+      <Time>2014-05-29T19:52:17.109469+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\010.png</Source>
+      <Name>Images\Background\Stars\Back\010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\010.xnb</Output>
+      <Time>2014-05-29T19:52:04.881057+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\011.png</Source>
+      <Name>Images\Background\Stars\Back\011</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\011.xnb</Output>
+      <Time>2014-05-29T19:51:54.39028+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\012.png</Source>
+      <Name>Images\Background\Stars\Back\012</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\012.xnb</Output>
+      <Time>2014-05-29T19:36:48.386054+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\000.png</Source>
+      <Name>Images\Background\Stars\Big\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Big\000.xnb</Output>
+      <Time>2014-05-30T14:23:29.664642+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\001.png</Source>
+      <Name>Images\Background\Stars\Big\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Big\001.xnb</Output>
+      <Time>2014-05-30T14:25:24.673535+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\002.png</Source>
+      <Name>Images\Background\Stars\Big\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Big\002.xnb</Output>
+      <Time>2014-05-30T14:26:43.825094+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\003.png</Source>
+      <Name>Images\Background\Stars\Big\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Big\003.xnb</Output>
+      <Time>2014-05-30T14:21:03.133148+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestCharacter.png</Source>
+      <Name>Images\TestImages\TestCharacter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\TestImages\TestCharacter.xnb</Output>
+      <Time>2014-05-14T15:21:36.565423+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\stars.png</Source>
+      <Name>Images\TestImages\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\TestImages\stars.xnb</Output>
+      <Time>2014-04-16T20:33:08.268057+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\StarField.png</Source>
+      <Name>Images\TestImages\StarField</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\TestImages\StarField.xnb</Output>
+      <Time>2014-05-14T07:03:02.008706+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Marker.png</Source>
+      <Name>Images\TestImages\Marker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\TestImages\Marker.xnb</Output>
+      <Time>2014-05-30T19:20:50.547697+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestStar.png</Source>
+      <Name>Images\TestImages\TestStar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\TestImages\TestStar.xnb</Output>
+      <Time>2014-05-14T14:56:43.423163+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestDust.png</Source>
+      <Name>Images\TestImages\TestDust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\TestImages\TestDust.xnb</Output>
+      <Time>2014-05-16T17:40:21.784359+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Cursor.png</Source>
+      <Name>Images\TestImages\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\TestImages\Cursor.xnb</Output>
+      <Time>2014-05-21T19:11:56.764804+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\000.png</Source>
+      <Name>Images\Background\Stars\Front\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Front\000.xnb</Output>
+      <Time>2014-05-29T19:32:11.357233+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\001.png</Source>
+      <Name>Images\Background\Stars\Front\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Front\001.xnb</Output>
+      <Time>2014-05-29T19:34:49.913304+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\002.png</Source>
+      <Name>Images\Background\Stars\Front\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Front\002.xnb</Output>
+      <Time>2014-05-29T19:35:07.581778+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\003.png</Source>
+      <Name>Images\Background\Stars\Front\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Front\003.xnb</Output>
+      <Time>2014-05-29T19:35:19.179983+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\013.png</Source>
+      <Name>Images\Background\Stars\Back\013</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\013.xnb</Output>
+      <Time>2014-05-29T19:56:15.606427+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\014.png</Source>
+      <Name>Images\Background\Stars\Back\014</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\014.xnb</Output>
+      <Time>2014-05-29T19:56:10.798092+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\015.png</Source>
+      <Name>Images\Background\Stars\Back\015</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\015.xnb</Output>
+      <Time>2014-05-29T19:56:03.038231+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\016.png</Source>
+      <Name>Images\Background\Stars\Back\016</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\016.xnb</Output>
+      <Time>2014-05-29T19:55:58.102131+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\017.png</Source>
+      <Name>Images\Background\Stars\Back\017</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\017.xnb</Output>
+      <Time>2014-05-29T19:55:52.682387+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\018.png</Source>
+      <Name>Images\Background\Stars\Back\018</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\Images\Background\Stars\Back\018.xnb</Output>
+      <Time>2014-05-29T19:55:46.366399+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuildContent\</RootDirectory>
+      <LoggerRootDirectory>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\</LoggerRootDirectory>
+      <IntermediateDirectory>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuildContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuild\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-01-19T18:13:25.059262+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

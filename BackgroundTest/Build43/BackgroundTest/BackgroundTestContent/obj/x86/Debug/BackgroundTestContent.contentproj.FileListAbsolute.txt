@@ -1,0 +1,24 @@
+C:\Users\Dylan\Desktop\Downloads\My Media\Game Development\BugsInSpace\BackgroundTest\BackgroundTest\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\Downloads\My Media\Game Development\BugsInSpace\BackgroundTest1\BackgroundTest\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\BackgroundTest1\BackgroundTest\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\BackgroundTest1 - Copy\BackgroundTest\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\BackgroundTest3\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\BackgroundTest4\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+C:\Amy\BackgroundTest4\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\BackgroundTest6\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\BackgroundTest7\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\BackgroundTest8.1\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\BackgroundTest8.2\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\BackgroundTest9\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\SpineTest\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\Build34\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+C:\New folder\Build34\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+C:\New folder\Build35\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\Build36\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\Build37\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\Build38\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+C:\Build39\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+C:\Build40\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+C:\Build41\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+C:\Build42\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache
+C:\Build43\BackgroundTest\BackgroundTestContent\obj\x86\Debug\BackgroundTestContent.contentprojResolveAssemblyReference.cache

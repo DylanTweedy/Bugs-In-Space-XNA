@@ -1,0 +1,1261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Arial.bmp</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>2015-05-05T16:43:10.41203+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\000.png</Source>
+      <Name>Images\Background\Stars\Back\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\000.xnb</Output>
+      <Time>2014-11-12T16:54:15.933617+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\001.png</Source>
+      <Name>Images\Background\Stars\Back\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\001.xnb</Output>
+      <Time>2014-11-12T16:54:15.951634+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\002.png</Source>
+      <Name>Images\Background\Stars\Back\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\002.xnb</Output>
+      <Time>2014-11-12T16:54:15.970651+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\003.png</Source>
+      <Name>Images\Background\Stars\Back\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\003.xnb</Output>
+      <Time>2014-11-12T16:54:15.971653+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\004.png</Source>
+      <Name>Images\Background\Stars\Back\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\004.xnb</Output>
+      <Time>2014-11-12T16:54:15.994675+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\005.png</Source>
+      <Name>Images\Background\Stars\Back\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\005.xnb</Output>
+      <Time>2014-11-12T16:54:15.997677+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\000.png</Source>
+      <Name>Images\Background\Stars\Big\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\000.xnb</Output>
+      <Time>2014-11-12T16:54:16.016695+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\001.png</Source>
+      <Name>Images\Background\Stars\Big\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\001.xnb</Output>
+      <Time>2014-11-12T16:54:16.080756+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\002.png</Source>
+      <Name>Images\Background\Stars\Big\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\002.xnb</Output>
+      <Time>2014-11-12T16:54:16.120795+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\003.png</Source>
+      <Name>Images\Background\Stars\Big\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\003.xnb</Output>
+      <Time>2014-11-12T16:54:16.166839+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\000.png</Source>
+      <Name>Images\Background\Stars\Front\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\000.xnb</Output>
+      <Time>2014-11-12T16:54:16.186857+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\001.png</Source>
+      <Name>Images\Background\Stars\Front\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\001.xnb</Output>
+      <Time>2014-11-12T16:54:16.189861+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\002.png</Source>
+      <Name>Images\Background\Stars\Front\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\002.xnb</Output>
+      <Time>2014-11-12T16:54:16.203874+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\003.png</Source>
+      <Name>Images\Background\Stars\Front\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\003.xnb</Output>
+      <Time>2014-11-12T16:54:16.205875+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Body\000 - Copy.png</Source>
+      <Name>Images\Galaxy\Asteroid\Body\000 - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000 - Copy.xnb</Output>
+      <Time>2014-11-12T16:54:16.339002+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Body\000.png</Source>
+      <Name>Images\Galaxy\Asteroid\Body\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000.xnb</Output>
+      <Time>2014-11-12T16:54:16.377038+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Mask\000.png</Source>
+      <Name>Images\Galaxy\Asteroid\Mask\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Mask\000.xnb</Output>
+      <Time>2014-11-12T16:54:16.407068+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Overlay1\000.png</Source>
+      <Name>Images\Galaxy\Asteroid\Overlay1\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\000.xnb</Output>
+      <Time>2014-11-12T16:54:16.435095+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Overlay1\001.png</Source>
+      <Name>Images\Galaxy\Asteroid\Overlay1\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\001.xnb</Output>
+      <Time>2014-11-12T16:54:16.476132+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Overlay2\000.png</Source>
+      <Name>Images\Galaxy\Asteroid\Overlay2\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\000.xnb</Output>
+      <Time>2014-11-12T16:54:16.495151+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Overlay2\001 -.png</Source>
+      <Name>Images\Galaxy\Asteroid\Overlay2\001 -</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001 -.xnb</Output>
+      <Time>2014-11-12T16:54:16.554207+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Overlay2\001.png</Source>
+      <Name>Images\Galaxy\Asteroid\Overlay2\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001.xnb</Output>
+      <Time>2014-11-12T16:54:16.606256+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Body\000.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Body\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Body\000.xnb</Output>
+      <Time>2014-11-12T16:54:16.685332+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Clouds\000.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Clouds\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\000.xnb</Output>
+      <Time>2014-11-12T16:54:16.699346+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Clouds\001.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Clouds\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\001.xnb</Output>
+      <Time>2014-11-12T16:54:16.74539+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Clouds\002.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Clouds\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\002.xnb</Output>
+      <Time>2014-11-12T16:54:16.788429+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Overlay\000.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Overlay\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\000.xnb</Output>
+      <Time>2014-11-12T16:54:16.836476+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Overlay\001.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Overlay\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\001.xnb</Output>
+      <Time>2014-11-12T16:54:16.849488+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\000.png</Source>
+      <Name>Images\Galaxy\Planet\Body\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\000.xnb</Output>
+      <Time>2014-11-12T16:54:16.891528+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\001.png</Source>
+      <Name>Images\Galaxy\Planet\Body\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\001.xnb</Output>
+      <Time>2014-11-12T16:54:16.920556+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\002.png</Source>
+      <Name>Images\Galaxy\Planet\Body\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002.xnb</Output>
+      <Time>2014-11-12T16:54:16.948582+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\002OLD.png</Source>
+      <Name>Images\Galaxy\Planet\Body\002OLD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002OLD.xnb</Output>
+      <Time>2014-11-12T16:54:16.986619+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\003.png</Source>
+      <Name>Images\Galaxy\Planet\Body\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\003.xnb</Output>
+      <Time>2014-11-12T16:54:17.01965+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\OLD000.png</Source>
+      <Name>Images\Galaxy\Planet\Body\OLD000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\OLD000.xnb</Output>
+      <Time>2014-11-12T16:54:17.148837+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\OLD001.png</Source>
+      <Name>Images\Galaxy\Planet\Body\OLD001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\OLD001.xnb</Output>
+      <Time>2014-11-12T16:54:17.196382+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\000.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\000.xnb</Output>
+      <Time>2014-11-12T16:54:17.24198+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\001.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\001.xnb</Output>
+      <Time>2014-11-12T16:54:17.280015+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\002.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\002.xnb</Output>
+      <Time>2014-11-12T16:54:17.285019+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\003.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\003.xnb</Output>
+      <Time>2014-11-12T16:54:17.306038+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\004.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\004.xnb</Output>
+      <Time>2014-11-12T16:54:17.332064+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\005.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\005.xnb</Output>
+      <Time>2014-11-12T16:54:17.362092+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Glow\000.png</Source>
+      <Name>Images\Galaxy\Planet\Glow\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Glow\000.xnb</Output>
+      <Time>2014-11-12T16:54:17.680394+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Overlay\000.png</Source>
+      <Name>Images\Galaxy\Planet\Overlay\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000.xnb</Output>
+      <Time>2014-11-12T16:54:17.88559+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Overlay\000OLD.png</Source>
+      <Name>Images\Galaxy\Planet\Overlay\000OLD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000OLD.xnb</Output>
+      <Time>2014-11-12T16:54:18.04374+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Overlay\001.png</Source>
+      <Name>Images\Galaxy\Planet\Overlay\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001.xnb</Output>
+      <Time>2014-11-12T16:54:18.236924+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Overlay\001OLD.png</Source>
+      <Name>Images\Galaxy\Planet\Overlay\001OLD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001OLD.xnb</Output>
+      <Time>2014-11-12T16:54:18.603273+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Overlay\002.png</Source>
+      <Name>Images\Galaxy\Planet\Overlay\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\002.xnb</Output>
+      <Time>2014-11-12T16:54:19.230869+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Overlay\003.png</Source>
+      <Name>Images\Galaxy\Planet\Overlay\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\003.xnb</Output>
+      <Time>2014-11-12T16:54:19.539165+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Shadows\000.png</Source>
+      <Name>Images\Galaxy\Planet\Shadows\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\000.xnb</Output>
+      <Time>2014-11-12T16:54:20.118715+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Shadows\001.png</Source>
+      <Name>Images\Galaxy\Planet\Shadows\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\001.xnb</Output>
+      <Time>2014-11-12T16:54:20.174768+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Shadows\OLD (1).png</Source>
+      <Name>Images\Galaxy\Planet\Shadows\OLD (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (1).xnb</Output>
+      <Time>2014-11-12T16:54:20.224816+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Shadows\OLD (2).png</Source>
+      <Name>Images\Galaxy\Planet\Shadows\OLD (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (2).xnb</Output>
+      <Time>2014-11-12T16:54:20.240831+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Shadows\OLD (3).png</Source>
+      <Name>Images\Galaxy\Planet\Shadows\OLD (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (3).xnb</Output>
+      <Time>2014-11-12T16:54:20.274869+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Body\000.png</Source>
+      <Name>Images\Galaxy\Star\Body\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\000.xnb</Output>
+      <Time>2014-11-12T16:54:20.313901+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Body\001.png</Source>
+      <Name>Images\Galaxy\Star\Body\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\001.xnb</Output>
+      <Time>2014-11-12T16:54:20.35494+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Body\old (1).png</Source>
+      <Name>Images\Galaxy\Star\Body\old (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (1).xnb</Output>
+      <Time>2014-11-12T16:54:20.421003+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Body\old (2).png</Source>
+      <Name>Images\Galaxy\Star\Body\old (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (2).xnb</Output>
+      <Time>2014-11-12T16:54:20.459039+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Color\000.png</Source>
+      <Name>Images\Galaxy\Star\Color\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Color\000.xnb</Output>
+      <Time>2014-11-12T16:54:20.534111+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Color\001.png</Source>
+      <Name>Images\Galaxy\Star\Color\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Color\001.xnb</Output>
+      <Time>2014-11-12T16:54:20.537114+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Glow\000.png</Source>
+      <Name>Images\Galaxy\Star\Glow\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\000.xnb</Output>
+      <Time>2014-11-12T16:54:20.571146+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Glow\001.png</Source>
+      <Name>Images\Galaxy\Star\Glow\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\001.xnb</Output>
+      <Time>2014-11-12T16:54:20.583157+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Glow\old (1).png</Source>
+      <Name>Images\Galaxy\Star\Glow\old (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (1).xnb</Output>
+      <Time>2014-11-12T16:54:20.612185+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Glow\old (2).png</Source>
+      <Name>Images\Galaxy\Star\Glow\old (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (2).xnb</Output>
+      <Time>2014-11-12T16:54:20.651221+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InfoBox\ColorBlack.png</Source>
+      <Name>Images\InfoBox\ColorBlack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorBlack.xnb</Output>
+      <Time>2014-11-12T16:54:20.669239+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InfoBox\ColorBlock.png</Source>
+      <Name>Images\InfoBox\ColorBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorBlock.xnb</Output>
+      <Time>2014-11-12T16:54:20.696265+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InfoBox\ColorPallette.png</Source>
+      <Name>Images\InfoBox\ColorPallette</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorPallette.xnb</Output>
+      <Time>2014-11-12T16:54:20.707275+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InfoBox\ColorWhite.png</Source>
+      <Name>Images\InfoBox\ColorWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorWhite.xnb</Output>
+      <Time>2014-11-12T16:54:20.729296+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Boots\000.png</Source>
+      <Name>Images\Items\Boots\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Boots\000.xnb</Output>
+      <Time>2014-11-12T16:54:20.750318+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Chest\000.png</Source>
+      <Name>Images\Items\Chest\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Chest\000.xnb</Output>
+      <Time>2014-11-12T16:54:20.806371+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Gloves\000.png</Source>
+      <Name>Images\Items\Gloves\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Gloves\000.xnb</Output>
+      <Time>2014-11-12T16:54:20.829392+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Head\000.png</Source>
+      <Name>Images\Items\Head\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Head\000.xnb</Output>
+      <Time>2014-11-12T16:54:20.850411+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Pants\000.png</Source>
+      <Name>Images\Items\Pants\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Pants\000.xnb</Output>
+      <Time>2014-11-12T16:54:20.874436+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\000.png</Source>
+      <Name>Images\Items\Weapons\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\000.xnb</Output>
+      <Time>2014-11-12T16:54:20.917475+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\001.png</Source>
+      <Name>Images\Items\Weapons\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\001.xnb</Output>
+      <Time>2014-11-12T16:54:20.944501+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\002.png</Source>
+      <Name>Images\Items\Weapons\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\002.xnb</Output>
+      <Time>2014-11-12T16:54:20.952509+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\003.png</Source>
+      <Name>Images\Items\Weapons\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\003.xnb</Output>
+      <Time>2014-11-12T16:54:20.953509+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\004.png</Source>
+      <Name>Images\Items\Weapons\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\004.xnb</Output>
+      <Time>2014-11-12T16:54:21.021575+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\005.png</Source>
+      <Name>Images\Items\Weapons\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\005.xnb</Output>
+      <Time>2014-11-12T16:54:21.0486+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\006.png</Source>
+      <Name>Images\Items\Weapons\006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\006.xnb</Output>
+      <Time>2014-11-12T16:54:21.075625+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\007.png</Source>
+      <Name>Images\Items\Weapons\007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\007.xnb</Output>
+      <Time>2014-11-12T16:54:21.119667+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Particles\000.png</Source>
+      <Name>Images\Particles\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Particles\000.xnb</Output>
+      <Time>2014-11-12T16:54:21.129677+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Large\000.png</Source>
+      <Name>Images\Projectiles\Large\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Large\000.xnb</Output>
+      <Time>2014-11-12T16:54:21.172718+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Medium\000.png</Source>
+      <Name>Images\Projectiles\Medium\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Medium\000.xnb</Output>
+      <Time>2014-11-12T16:54:21.180725+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\000.png</Source>
+      <Name>Images\Projectiles\Small\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\000.xnb</Output>
+      <Time>2014-11-12T16:54:21.198743+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\001.png</Source>
+      <Name>Images\Projectiles\Small\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\001.xnb</Output>
+      <Time>2014-11-12T16:54:21.205749+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\002.png</Source>
+      <Name>Images\Projectiles\Small\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\002.xnb</Output>
+      <Time>2014-11-12T16:54:21.211756+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\003.png</Source>
+      <Name>Images\Projectiles\Small\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\003.xnb</Output>
+      <Time>2014-11-12T16:54:21.217761+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\004.png</Source>
+      <Name>Images\Projectiles\Small\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\004.xnb</Output>
+      <Time>2014-11-12T16:54:21.219763+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\005.png</Source>
+      <Name>Images\Projectiles\Small\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\005.xnb</Output>
+      <Time>2014-11-12T16:54:21.249793+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\006.png</Source>
+      <Name>Images\Projectiles\Small\006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\006.xnb</Output>
+      <Time>2014-11-12T16:54:21.251794+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\007.png</Source>
+      <Name>Images\Projectiles\Small\007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\007.xnb</Output>
+      <Time>2014-11-12T16:54:21.269812+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\008.png</Source>
+      <Name>Images\Projectiles\Small\008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\008.xnb</Output>
+      <Time>2014-11-12T16:54:21.270812+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\009.png</Source>
+      <Name>Images\Projectiles\Small\009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\009.xnb</Output>
+      <Time>2014-11-12T16:54:21.271814+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\010.png</Source>
+      <Name>Images\Projectiles\Small\010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\010.xnb</Output>
+      <Time>2014-11-12T16:54:21.272814+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Arrow.png</Source>
+      <Name>Images\TestImages\Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Arrow.xnb</Output>
+      <Time>2014-11-12T16:54:21.293834+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Cursor.png</Source>
+      <Name>Images\TestImages\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Cursor.xnb</Output>
+      <Time>2014-11-12T16:54:21.449982+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Galaxy10.jpg</Source>
+      <Name>Images\TestImages\Galaxy10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Galaxy10.xnb</Output>
+      <Time>2014-11-12T16:54:21.580106+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Marker.png</Source>
+      <Name>Images\TestImages\Marker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Marker.xnb</Output>
+      <Time>2014-11-12T16:54:21.58311+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\MarkerCheckered.png</Source>
+      <Name>Images\TestImages\MarkerCheckered</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerCheckered.xnb</Output>
+      <Time>2014-11-12T16:54:21.607136+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\MarkerCircle.png</Source>
+      <Name>Images\TestImages\MarkerCircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerCircle.xnb</Output>
+      <Time>2014-11-12T16:54:21.619145+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\MarkerTriangle.png</Source>
+      <Name>Images\TestImages\MarkerTriangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerTriangle.xnb</Output>
+      <Time>2014-11-12T16:54:21.709229+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Rock.jpg</Source>
+      <Name>Images\TestImages\Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Rock.xnb</Output>
+      <Time>2014-11-12T16:54:21.736257+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\StarField.png</Source>
+      <Name>Images\TestImages\StarField</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField.xnb</Output>
+      <Time>2014-11-12T16:54:21.793309+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\StarField1.png</Source>
+      <Name>Images\TestImages\StarField1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField1.xnb</Output>
+      <Time>2014-11-12T16:54:21.833347+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\StarField2.png</Source>
+      <Name>Images\TestImages\StarField2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField2.xnb</Output>
+      <Time>2014-11-12T16:54:21.867379+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\stars.png</Source>
+      <Name>Images\TestImages\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\stars.xnb</Output>
+      <Time>2014-11-12T16:54:21.888401+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestCharacter.png</Source>
+      <Name>Images\TestImages\TestCharacter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestCharacter.xnb</Output>
+      <Time>2014-11-12T16:54:21.899412+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestDust - Copy.png</Source>
+      <Name>Images\TestImages\TestDust - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestDust - Copy.xnb</Output>
+      <Time>2014-11-12T16:54:21.900411+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestDust.png</Source>
+      <Name>Images\TestImages\TestDust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestDust.xnb</Output>
+      <Time>2014-11-12T16:54:21.919429+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestStar.png</Source>
+      <Name>Images\TestImages\TestStar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestStar.xnb</Output>
+      <Time>2014-11-12T16:54:21.921431+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestStar2.png</Source>
+      <Name>Images\TestImages\TestStar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestStar2.xnb</Output>
+      <Time>2014-11-12T16:54:21.922432+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial-Bold.bmp</Source>
+      <Name>Fonts\Arial-Bold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-Bold.xnb</Output>
+      <Time>2015-05-07T14:33:34.215675+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial-BoldItalic.bmp</Source>
+      <Name>Fonts\Arial-BoldItalic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-BoldItalic.xnb</Output>
+      <Time>2015-05-05T16:44:49.222551+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial-Italic.bmp</Source>
+      <Name>Fonts\Arial-Italic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-Italic.xnb</Output>
+      <Time>2015-05-05T16:44:39.256554+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Helvetica-Bold.bmp</Source>
+      <Name>Fonts\Helvetica-Bold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-Bold.xnb</Output>
+      <Time>2014-12-09T20:30:09.913774+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Helvetica-BoldItalic.bmp</Source>
+      <Name>Fonts\Helvetica-BoldItalic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-BoldItalic.xnb</Output>
+      <Time>2014-12-09T20:30:16.256817+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Helvetica-Italic.bmp</Source>
+      <Name>Fonts\Helvetica-Italic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-Italic.xnb</Output>
+      <Time>2014-12-09T20:30:04.855939+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Helvetica.bmp</Source>
+      <Name>Fonts\Helvetica</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica.xnb</Output>
+      <Time>2014-12-09T20:29:50.692543+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma-Bold.bmp</Source>
+      <Name>Fonts\Tahoma-Bold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-Bold.xnb</Output>
+      <Time>2014-11-12T16:56:00.130439+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma-BoldItalic.bmp</Source>
+      <Name>Fonts\Tahoma-BoldItalic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-BoldItalic.xnb</Output>
+      <Time>2014-11-12T16:56:00.137446+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma-Italic.bmp</Source>
+      <Name>Fonts\Tahoma-Italic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-Italic.xnb</Output>
+      <Time>2014-11-12T16:56:00.14245+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma.bmp</Source>
+      <Name>Fonts\Tahoma</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma.xnb</Output>
+      <Time>2014-11-12T16:56:00.143451+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TimesNewRoman-Bold.bmp</Source>
+      <Name>Fonts\TimesNewRoman-Bold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-Bold.xnb</Output>
+      <Time>2014-11-12T16:56:00.145453+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TimesNewRoman-BoldItalic.bmp</Source>
+      <Name>Fonts\TimesNewRoman-BoldItalic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-BoldItalic.xnb</Output>
+      <Time>2014-11-12T16:56:00.145453+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TimesNewRoman-Italic.bmp</Source>
+      <Name>Fonts\TimesNewRoman-Italic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-Italic.xnb</Output>
+      <Time>2014-11-12T16:56:00.147455+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TimesNewRoman.bmp</Source>
+      <Name>Fonts\TimesNewRoman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman.xnb</Output>
+      <Time>2014-11-12T16:56:00.15346+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\1.spritefont</Source>
+      <Name>Fonts\1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\1.xnb</Output>
+      <Time>2014-11-12T16:55:59.823147+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effect1.fx</Source>
+      <Name>Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effect1.xnb</Output>
+      <Time>2014-12-17T07:37:56.49616+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomCombine.fx</Source>
+      <Name>BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\BloomCombine.xnb</Output>
+      <Time>2014-12-17T06:49:22.781035+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomExtract.fx</Source>
+      <Name>BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\BloomExtract.xnb</Output>
+      <Time>2014-12-16T06:56:08.005609+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GaussianBlur.fx</Source>
+      <Name>GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\GaussianBlur.xnb</Output>
+      <Time>2014-12-16T06:56:07.994598+00:00</Time>
+    </Item>
+    <Item>
+      <Source>normalmap.fx</Source>
+      <Name>normalmap</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\normalmap.xnb</Output>
+      <Time>2014-12-17T07:48:46.175659+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\DeferredCombined.fx</Source>
+      <Name>Effects\DeferredCombined</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effects\DeferredCombined.xnb</Output>
+      <Time>2014-12-19T08:00:57.357666+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\MultiTarget.fx</Source>
+      <Name>Effects\MultiTarget</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effects\MultiTarget.xnb</Output>
+      <Time>2014-12-19T08:00:57.333643+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBoxContent\</RootDirectory>
+      <LoggerRootDirectory>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\</LoggerRootDirectory>
+      <IntermediateDirectory>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-01-19T18:13:25.059262+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

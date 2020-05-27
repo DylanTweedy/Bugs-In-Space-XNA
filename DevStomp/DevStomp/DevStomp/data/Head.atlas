@@ -1,0 +1,13 @@
+
+Head.png
+size: 34,42
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Parts/Head
+  rotate: false
+  xy: 2, 2
+  size: 32, 40
+  orig: 64, 64
+  offset: 16, 12
+  index: -1

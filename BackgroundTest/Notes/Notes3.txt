@@ -1,0 +1,32 @@
+Pressure
+
+Atmosphere - Sea Level
+0 - 101,325
+
+Sea Level - Bottom of mantle
+101,325 - 140,000,000,000
+
+Mantle - Core
+140,000,000,000 - 360,000,000,000
+
+
+
+100 kPa
+9200 kPa
+
+Make Rectangle lists for each type of tile sheet and then a way to select the correct sheet.
+Change hills to start flat and then created by the creators. (Need a method for this.)
+Once every frame cycle through every chunk on screen and apply updates and calculate render states.
+(ie. Do most of the pre-draw work and scan blocks adjacent tiles, act accordingly)
+Then do this for at least one other random active chunk (so other chunks are updated whilst you're not there.)
+Add the stone probability tables.
+Bring back the active blocks:
+Decaying and Healing are now bools, if a block is below half health for a certain amount of time it becomes decaying, otherwise, healing.
+Add a form of ActiveBlock for moving blocks (ie. replace falling blocks with this, but also could be used for explosions.)
+remove block details outside of render area.
+Try combining rocks (ie. Basaltic Trachyandesite can be a combination of the two rocks layered)
+
+
+Ooooooooooooooooo
+block deccorations can be done per block type, rather than per block.
+every block decorations could also be based on certain conditions such and temperature and pressure. i.e. ice decor/ lava decor.

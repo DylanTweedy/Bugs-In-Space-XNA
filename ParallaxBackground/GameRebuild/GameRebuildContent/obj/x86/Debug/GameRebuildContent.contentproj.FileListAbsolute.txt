@@ -1,0 +1,2 @@
+B:\My Media\Game Development\GameRebuild\GameRebuild\GameRebuildContent\obj\x86\Debug\GameRebuildContent.contentprojResolveAssemblyReference.cache
+U:\[Sort]\My Media\Game Development\GameRebuild\GameRebuild\GameRebuildContent\obj\x86\Debug\GameRebuildContent.contentprojResolveAssemblyReference.cache

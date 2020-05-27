@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkinnerBox", "SkinnerBox\SkinnerBox\SkinnerBox.csproj", "{20B2F04A-74BE-4C40-B45F-CC981FF35DAE}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SkinnerBoxContent", "SkinnerBox\SkinnerBoxContent\SkinnerBoxContent.contentproj", "{36DE2E17-DA0B-4203-8701-7BF2B2F9634F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B2F04A-74BE-4C40-B45F-CC981FF35DAE}.Debug|x86.ActiveCfg = Debug|x86
+		{20B2F04A-74BE-4C40-B45F-CC981FF35DAE}.Debug|x86.Build.0 = Debug|x86
+		{20B2F04A-74BE-4C40-B45F-CC981FF35DAE}.Release|x86.ActiveCfg = Release|x86
+		{20B2F04A-74BE-4C40-B45F-CC981FF35DAE}.Release|x86.Build.0 = Release|x86
+		{36DE2E17-DA0B-4203-8701-7BF2B2F9634F}.Debug|x86.ActiveCfg = Debug|x86
+		{36DE2E17-DA0B-4203-8701-7BF2B2F9634F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,135 @@
+Content\Fonts\Arial.xnb
+Content\Images\Background\Stars\Back\000.xnb
+Content\Images\Background\Stars\Back\001.xnb
+Content\Images\Background\Stars\Back\002.xnb
+Content\Images\Background\Stars\Back\003.xnb
+Content\Images\Background\Stars\Back\004.xnb
+Content\Images\Background\Stars\Back\005.xnb
+Content\Images\Background\Stars\Big\000.xnb
+Content\Images\Background\Stars\Big\001.xnb
+Content\Images\Background\Stars\Big\002.xnb
+Content\Images\Background\Stars\Big\003.xnb
+Content\Images\Background\Stars\Front\000.xnb
+Content\Images\Background\Stars\Front\001.xnb
+Content\Images\Background\Stars\Front\002.xnb
+Content\Images\Background\Stars\Front\003.xnb
+Content\Images\Galaxy\Asteroid\Body\000 - Copy.xnb
+Content\Images\Galaxy\Asteroid\Body\000.xnb
+Content\Images\Galaxy\Asteroid\Mask\000.xnb
+Content\Images\Galaxy\Asteroid\Overlay1\000.xnb
+Content\Images\Galaxy\Asteroid\Overlay1\001.xnb
+Content\Images\Galaxy\Asteroid\Overlay2\000.xnb
+Content\Images\Galaxy\Asteroid\Overlay2\001 -.xnb
+Content\Images\Galaxy\Asteroid\Overlay2\001.xnb
+Content\Images\Galaxy\Gas Giant\Body\000.xnb
+Content\Images\Galaxy\Gas Giant\Clouds\000.xnb
+Content\Images\Galaxy\Gas Giant\Clouds\001.xnb
+Content\Images\Galaxy\Gas Giant\Clouds\002.xnb
+Content\Images\Galaxy\Gas Giant\Overlay\000.xnb
+Content\Images\Galaxy\Gas Giant\Overlay\001.xnb
+Content\Images\Galaxy\Planet\Body\000.xnb
+Content\Images\Galaxy\Planet\Body\001.xnb
+Content\Images\Galaxy\Planet\Body\002.xnb
+Content\Images\Galaxy\Planet\Body\002OLD.xnb
+Content\Images\Galaxy\Planet\Body\003.xnb
+Content\Images\Galaxy\Planet\Body\OLD000.xnb
+Content\Images\Galaxy\Planet\Body\OLD001.xnb
+Content\Images\Galaxy\Planet\Clouds\000.xnb
+Content\Images\Galaxy\Planet\Clouds\001.xnb
+Content\Images\Galaxy\Planet\Clouds\002.xnb
+Content\Images\Galaxy\Planet\Clouds\003.xnb
+Content\Images\Galaxy\Planet\Clouds\004.xnb
+Content\Images\Galaxy\Planet\Clouds\005.xnb
+Content\Images\Galaxy\Planet\Glow\000.xnb
+Content\Images\Galaxy\Planet\Overlay\000.xnb
+Content\Images\Galaxy\Planet\Overlay\000OLD.xnb
+Content\Images\Galaxy\Planet\Overlay\001.xnb
+Content\Images\Galaxy\Planet\Overlay\001OLD.xnb
+Content\Images\Galaxy\Planet\Overlay\002.xnb
+Content\Images\Galaxy\Planet\Overlay\003.xnb
+Content\Images\Galaxy\Planet\Shadows\000.xnb
+Content\Images\Galaxy\Planet\Shadows\001.xnb
+Content\Images\Galaxy\Planet\Shadows\OLD (1).xnb
+Content\Images\Galaxy\Planet\Shadows\OLD (2).xnb
+Content\Images\Galaxy\Planet\Shadows\OLD (3).xnb
+Content\Images\Galaxy\Star\Body\000.xnb
+Content\Images\Galaxy\Star\Body\001.xnb
+Content\Images\Galaxy\Star\Body\old (1).xnb
+Content\Images\Galaxy\Star\Body\old (2).xnb
+Content\Images\Galaxy\Star\Color\000.xnb
+Content\Images\Galaxy\Star\Color\001.xnb
+Content\Images\Galaxy\Star\Glow\000.xnb
+Content\Images\Galaxy\Star\Glow\001.xnb
+Content\Images\Galaxy\Star\Glow\old (1).xnb
+Content\Images\Galaxy\Star\Glow\old (2).xnb
+Content\Images\InfoBox\ColorBlack.xnb
+Content\Images\InfoBox\ColorBlock.xnb
+Content\Images\InfoBox\ColorPallette.xnb
+Content\Images\InfoBox\ColorWhite.xnb
+Content\Images\Items\Boots\000.xnb
+Content\Images\Items\Chest\000.xnb
+Content\Images\Items\Gloves\000.xnb
+Content\Images\Items\Head\000.xnb
+Content\Images\Items\Pants\000.xnb
+Content\Images\Items\Weapons\000.xnb
+Content\Images\Items\Weapons\001.xnb
+Content\Images\Items\Weapons\002.xnb
+Content\Images\Items\Weapons\003.xnb
+Content\Images\Items\Weapons\004.xnb
+Content\Images\Items\Weapons\005.xnb
+Content\Images\Items\Weapons\006.xnb
+Content\Images\Items\Weapons\007.xnb
+Content\Images\Particles\000.xnb
+Content\Images\Projectiles\Large\000.xnb
+Content\Images\Projectiles\Medium\000.xnb
+Content\Images\Projectiles\Small\000.xnb
+Content\Images\Projectiles\Small\001.xnb
+Content\Images\Projectiles\Small\002.xnb
+Content\Images\Projectiles\Small\003.xnb
+Content\Images\Projectiles\Small\004.xnb
+Content\Images\Projectiles\Small\005.xnb
+Content\Images\Projectiles\Small\006.xnb
+Content\Images\Projectiles\Small\007.xnb
+Content\Images\Projectiles\Small\008.xnb
+Content\Images\Projectiles\Small\009.xnb
+Content\Images\Projectiles\Small\010.xnb
+Content\Images\TestImages\Arrow.xnb
+Content\Images\TestImages\Cursor.xnb
+Content\Images\TestImages\Galaxy10.xnb
+Content\Images\TestImages\Marker.xnb
+Content\Images\TestImages\MarkerCheckered.xnb
+Content\Images\TestImages\MarkerCircle.xnb
+Content\Images\TestImages\MarkerTriangle.xnb
+Content\Images\TestImages\Rock.xnb
+Content\Images\TestImages\StarField.xnb
+Content\Images\TestImages\StarField1.xnb
+Content\Images\TestImages\StarField2.xnb
+Content\Images\TestImages\stars.xnb
+Content\Images\TestImages\TestCharacter.xnb
+Content\Images\TestImages\TestDust - Copy.xnb
+Content\Images\TestImages\TestDust.xnb
+Content\Images\TestImages\TestStar.xnb
+Content\Images\TestImages\TestStar2.xnb
+Content\Fonts\Arial-Bold.xnb
+Content\Fonts\Arial-BoldItalic.xnb
+Content\Fonts\Arial-Italic.xnb
+Content\Fonts\Helvetica-Bold.xnb
+Content\Fonts\Helvetica-BoldItalic.xnb
+Content\Fonts\Helvetica-Italic.xnb
+Content\Fonts\Helvetica.xnb
+Content\Fonts\Tahoma-Bold.xnb
+Content\Fonts\Tahoma-BoldItalic.xnb
+Content\Fonts\Tahoma-Italic.xnb
+Content\Fonts\Tahoma.xnb
+Content\Fonts\TimesNewRoman-Bold.xnb
+Content\Fonts\TimesNewRoman-BoldItalic.xnb
+Content\Fonts\TimesNewRoman-Italic.xnb
+Content\Fonts\TimesNewRoman.xnb
+Content\Fonts\1.xnb
+Content\Effect1.xnb
+Content\BloomCombine.xnb
+Content\BloomExtract.xnb
+Content\GaussianBlur.xnb
+Content\normalmap.xnb
+Content\Effects\DeferredCombined.xnb
+Content\Effects\MultiTarget.xnb

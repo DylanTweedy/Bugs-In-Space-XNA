@@ -1,0 +1,13 @@
+
+Chest.png
+size: 64,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Parts/Chest
+  rotate: true
+  xy: 2, 2
+  size: 56, 62
+  orig: 128, 128
+  offset: 36, 33
+  index: -1

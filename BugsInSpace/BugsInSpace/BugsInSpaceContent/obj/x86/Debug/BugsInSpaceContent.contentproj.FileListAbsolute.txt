@@ -1,0 +1,34 @@
+C:\Users\Dylan\Desktop\BugsInSpace\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace - Copy\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build3\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build4\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build5\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build6\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build7\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build8\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build9\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build10\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build11\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build12\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build13\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build14\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build15\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build16\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build17\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build17\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\Audio\Audio.xml
+C:\Users\Dylan\Desktop\BugsInSpace\Build18\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\BugsInSpace\Build18\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\Audio\Audio.xml
+C:\Users\Dylan\Desktop\BugsInSpace\Build19\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\Audio\Audio.xml
+C:\Users\Dylan\Desktop\BugsInSpace\Build19\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\My Media\Game Development\BugsInSpace\Build19\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\My Media\Game Development\BugsInSpace\Build19\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\Audio\Audio.xml
+\\Dylan-hp\c$\Users\Dylan\Desktop\My Media\Game Development\BugsInSpace\Build19\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+\\Dylan-hp\c$\Users\Dylan\Desktop\My Media\Game Development\BugsInSpace\Build19\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\Audio\Audio.xml
+C:\Users\Dylan\Desktop\Downloads\My Media\Game Development\BugsInSpace\Build19\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\Downloads\My Media\Game Development\BugsInSpace\Build19\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\Audio\Audio.xml
+C:\Users\Dylan\Desktop\Downloads\My Media\Game Development\BugsInSpace\Build19 - Copy\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\Downloads\My Media\Game Development\BugsInSpace\Build19 - Copy\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\Audio\Audio.xml
+B:\My Media\Game Development\BugsInSpace\Build20\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\BugsInSpace\Build20\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\Audio\Audio.xml
+D:\Program Files\SmartGit\bin\BugsInSpace\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\BugsInSpaceContent.contentprojResolveAssemblyReference.cache
+D:\Program Files\SmartGit\bin\BugsInSpace\BugsInSpace\BugsInSpaceContent\obj\x86\Debug\Audio\Audio.xml

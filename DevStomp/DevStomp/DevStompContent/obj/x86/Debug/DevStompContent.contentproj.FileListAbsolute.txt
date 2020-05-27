@@ -1,0 +1,2 @@
+B:\My Media\Game Development\DevStomp\DevStomp\DevStompContent\obj\x86\Debug\DevStompContent.contentprojResolveAssemblyReference.cache
+U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStompContent\obj\x86\Debug\DevStompContent.contentprojResolveAssemblyReference.cache

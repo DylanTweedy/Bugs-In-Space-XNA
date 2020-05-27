@@ -1,0 +1,4 @@
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\SkinnerBoxContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\SkinnerBoxContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\SkinnerBoxContent.contentprojResolveAssemblyReference.cache
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\SkinnerBoxContent.contentprojResolveAssemblyReference.cache

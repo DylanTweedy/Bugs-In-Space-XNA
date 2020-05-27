@@ -1,0 +1,1139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Background\Stars\Back\000.png</Source>
+      <Name>Images\Background\Stars\Back\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Back\000.xnb</Output>
+      <Time>2014-05-31T04:58:07.995947+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\001.png</Source>
+      <Name>Images\Background\Stars\Back\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Back\001.xnb</Output>
+      <Time>2014-05-31T04:58:07.997954+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\002.png</Source>
+      <Name>Images\Background\Stars\Back\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Back\002.xnb</Output>
+      <Time>2014-05-31T04:58:08.010965+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\003.png</Source>
+      <Name>Images\Background\Stars\Back\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Back\003.xnb</Output>
+      <Time>2014-05-31T04:58:08.029204+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\004.png</Source>
+      <Name>Images\Background\Stars\Back\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Back\004.xnb</Output>
+      <Time>2014-05-31T04:58:08.030204+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Back\005.png</Source>
+      <Name>Images\Background\Stars\Back\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Back\005.xnb</Output>
+      <Time>2014-05-31T04:58:08.030204+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\000.png</Source>
+      <Name>Images\Background\Stars\Big\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Big\000.xnb</Output>
+      <Time>2014-10-04T21:34:10.895419+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\001.png</Source>
+      <Name>Images\Background\Stars\Big\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Big\001.xnb</Output>
+      <Time>2014-10-04T21:39:45.156531+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\002.png</Source>
+      <Name>Images\Background\Stars\Big\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Big\002.xnb</Output>
+      <Time>2014-10-04T21:39:09.41852+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Big\003.png</Source>
+      <Name>Images\Background\Stars\Big\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Big\003.xnb</Output>
+      <Time>2014-10-04T21:34:36.823093+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\000.png</Source>
+      <Name>Images\Background\Stars\Front\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Front\000.xnb</Output>
+      <Time>2014-05-31T04:58:08.033356+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\001.png</Source>
+      <Name>Images\Background\Stars\Front\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Front\001.xnb</Output>
+      <Time>2014-05-31T04:58:08.051202+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\002.png</Source>
+      <Name>Images\Background\Stars\Front\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Front\002.xnb</Output>
+      <Time>2014-05-31T04:58:08.052203+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background\Stars\Front\003.png</Source>
+      <Name>Images\Background\Stars\Front\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Background\Stars\Front\003.xnb</Output>
+      <Time>2014-05-31T04:58:08.053212+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\000.png</Source>
+      <Name>Images\Items\Weapons\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Weapons\000.xnb</Output>
+      <Time>2014-06-06T20:22:51.98547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\001.png</Source>
+      <Name>Images\Items\Weapons\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Weapons\001.xnb</Output>
+      <Time>2014-06-06T20:33:45.07077+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\002.png</Source>
+      <Name>Images\Items\Weapons\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Weapons\002.xnb</Output>
+      <Time>2014-06-06T20:34:34.19591+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\003.png</Source>
+      <Name>Images\Items\Weapons\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Weapons\003.xnb</Output>
+      <Time>2014-06-06T22:17:27.249224+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\004.png</Source>
+      <Name>Images\Items\Weapons\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Weapons\004.xnb</Output>
+      <Time>2014-06-06T22:18:40.377406+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\005.png</Source>
+      <Name>Images\Items\Weapons\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Weapons\005.xnb</Output>
+      <Time>2014-06-06T22:18:26.80863+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\006.png</Source>
+      <Name>Images\Items\Weapons\006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Weapons\006.xnb</Output>
+      <Time>2014-06-06T22:18:13.749883+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Weapons\007.png</Source>
+      <Name>Images\Items\Weapons\007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Weapons\007.xnb</Output>
+      <Time>2014-06-06T22:17:51.180593+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Cursor.png</Source>
+      <Name>Images\TestImages\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\Cursor.xnb</Output>
+      <Time>2014-05-31T04:58:08.073224+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Galaxy10.jpg</Source>
+      <Name>Images\TestImages\Galaxy10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\Galaxy10.xnb</Output>
+      <Time>2014-05-31T04:58:08.138274+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Marker.png</Source>
+      <Name>Images\TestImages\Marker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\Marker.xnb</Output>
+      <Time>2014-05-31T04:58:08.139275+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\StarField.png</Source>
+      <Name>Images\TestImages\StarField</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\StarField.xnb</Output>
+      <Time>2014-05-31T04:58:08.189036+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\StarField1.png</Source>
+      <Name>Images\TestImages\StarField1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\StarField1.xnb</Output>
+      <Time>2014-05-31T04:58:08.237074+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\StarField2.png</Source>
+      <Name>Images\TestImages\StarField2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\StarField2.xnb</Output>
+      <Time>2014-05-31T04:58:08.264101+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\stars.png</Source>
+      <Name>Images\TestImages\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\stars.xnb</Output>
+      <Time>2014-05-31T04:58:08.341738+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestCharacter.png</Source>
+      <Name>Images\TestImages\TestCharacter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\TestCharacter.xnb</Output>
+      <Time>2014-05-31T04:58:08.356111+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestDust - Copy.png</Source>
+      <Name>Images\TestImages\TestDust - Copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\TestDust - Copy.xnb</Output>
+      <Time>2014-05-31T04:58:08.375126+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestDust.png</Source>
+      <Name>Images\TestImages\TestDust</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\TestDust.xnb</Output>
+      <Time>2014-05-31T04:58:08.393157+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestStar.png</Source>
+      <Name>Images\TestImages\TestStar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\TestStar.xnb</Output>
+      <Time>2014-05-31T04:58:08.409148+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\TestStar2.png</Source>
+      <Name>Images\TestImages\TestStar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\TestStar2.xnb</Output>
+      <Time>2014-05-31T04:58:08.414151+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Large\000.png</Source>
+      <Name>Images\Projectiles\Large\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Large\000.xnb</Output>
+      <Time>2014-06-06T20:09:44.560935+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Medium\000.png</Source>
+      <Name>Images\Projectiles\Medium\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Medium\000.xnb</Output>
+      <Time>2014-06-06T20:09:28.653251+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\000.png</Source>
+      <Name>Images\Projectiles\Small\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\000.xnb</Output>
+      <Time>2014-05-31T11:04:29.233196+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Particles\000.png</Source>
+      <Name>Images\Particles\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Particles\000.xnb</Output>
+      <Time>2014-05-31T12:06:22.235736+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\001.png</Source>
+      <Name>Images\Projectiles\Small\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\001.xnb</Output>
+      <Time>2014-06-06T20:12:45.6333+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\002.png</Source>
+      <Name>Images\Projectiles\Small\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\002.xnb</Output>
+      <Time>2014-06-06T19:59:17.675087+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\003.png</Source>
+      <Name>Images\Projectiles\Small\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\003.xnb</Output>
+      <Time>2014-06-06T20:25:49.031108+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\004.png</Source>
+      <Name>Images\Projectiles\Small\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\004.xnb</Output>
+      <Time>2014-06-06T20:07:09.062049+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\005.png</Source>
+      <Name>Images\Projectiles\Small\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\005.xnb</Output>
+      <Time>2014-06-06T21:00:09.982987+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\006.png</Source>
+      <Name>Images\Projectiles\Small\006</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\006.xnb</Output>
+      <Time>2014-06-06T20:58:58.976926+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\007.png</Source>
+      <Name>Images\Projectiles\Small\007</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\007.xnb</Output>
+      <Time>2014-06-06T21:02:21.207493+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\008.png</Source>
+      <Name>Images\Projectiles\Small\008</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\008.xnb</Output>
+      <Time>2014-06-06T20:58:19.612674+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\009.png</Source>
+      <Name>Images\Projectiles\Small\009</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\009.xnb</Output>
+      <Time>2014-06-06T20:36:17.07703+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Projectiles\Small\010.png</Source>
+      <Name>Images\Projectiles\Small\010</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Projectiles\Small\010.xnb</Output>
+      <Time>2014-06-06T20:38:32.673785+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Boots\000.png</Source>
+      <Name>Images\Items\Boots\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Boots\000.xnb</Output>
+      <Time>2014-06-06T20:22:51.98547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Chest\000.png</Source>
+      <Name>Images\Items\Chest\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Chest\000.xnb</Output>
+      <Time>2014-06-06T20:22:51.98547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Gloves\000.png</Source>
+      <Name>Images\Items\Gloves\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Gloves\000.xnb</Output>
+      <Time>2014-06-06T20:22:51.98547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Head\000.png</Source>
+      <Name>Images\Items\Head\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Head\000.xnb</Output>
+      <Time>2014-06-07T19:11:20.865158+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Items\Pants\000.png</Source>
+      <Name>Images\Items\Pants\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Items\Pants\000.xnb</Output>
+      <Time>2014-06-06T20:22:51.98547+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Rock.jpg</Source>
+      <Name>Images\TestImages\Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\Rock.xnb</Output>
+      <Time>2014-06-15T12:45:13.187001+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\MarkerCircle.png</Source>
+      <Name>Images\TestImages\MarkerCircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\MarkerCircle.xnb</Output>
+      <Time>2014-07-26T07:49:14.847543+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\MarkerTriangle.png</Source>
+      <Name>Images\TestImages\MarkerTriangle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\MarkerTriangle.xnb</Output>
+      <Time>2014-07-07T05:28:11.093463+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InfoBox\ColorBlack.png</Source>
+      <Name>Images\InfoBox\ColorBlack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\InfoBox\ColorBlack.xnb</Output>
+      <Time>2014-07-09T04:36:34.032469+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InfoBox\ColorBlock.png</Source>
+      <Name>Images\InfoBox\ColorBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\InfoBox\ColorBlock.xnb</Output>
+      <Time>2014-07-09T04:37:20.669861+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InfoBox\ColorWhite.png</Source>
+      <Name>Images\InfoBox\ColorWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\InfoBox\ColorWhite.xnb</Output>
+      <Time>2014-07-09T04:36:52.676174+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\InfoBox\ColorPallette.png</Source>
+      <Name>Images\InfoBox\ColorPallette</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\InfoBox\ColorPallette.xnb</Output>
+      <Time>2014-07-09T06:20:35.767957+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\MarkerCheckered.png</Source>
+      <Name>Images\TestImages\MarkerCheckered</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\MarkerCheckered.xnb</Output>
+      <Time>2014-07-14T20:12:36.47374+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\TestImages\Arrow.png</Source>
+      <Name>Images\TestImages\Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\TestImages\Arrow.xnb</Output>
+      <Time>2014-08-06T11:09:44.647864+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\000.png</Source>
+      <Name>Images\Galaxy\Planet\Body\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\000.xnb</Output>
+      <Time>2014-08-14T19:39:26.185206+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\000.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\000.xnb</Output>
+      <Time>2014-08-14T16:29:26.278685+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\001.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\001.xnb</Output>
+      <Time>2014-10-09T06:59:27.270847+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Glow\000.png</Source>
+      <Name>Images\Galaxy\Planet\Glow\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Glow\000.xnb</Output>
+      <Time>2014-08-14T16:29:26.309723+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Overlay\000.png</Source>
+      <Name>Images\Galaxy\Planet\Overlay\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000.xnb</Output>
+      <Time>2014-08-14T19:57:41.53918+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Shadows\000.png</Source>
+      <Name>Images\Galaxy\Planet\Shadows\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\000.xnb</Output>
+      <Time>2014-08-14T16:29:26.311725+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Shadows\001.png</Source>
+      <Name>Images\Galaxy\Planet\Shadows\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\001.xnb</Output>
+      <Time>2014-08-14T16:29:26.311725+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Shadows\OLD (1).png</Source>
+      <Name>Images\Galaxy\Planet\Shadows\OLD (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (1).xnb</Output>
+      <Time>2014-08-14T16:29:26.312727+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Shadows\OLD (2).png</Source>
+      <Name>Images\Galaxy\Planet\Shadows\OLD (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (2).xnb</Output>
+      <Time>2014-08-14T16:29:26.312727+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Shadows\OLD (3).png</Source>
+      <Name>Images\Galaxy\Planet\Shadows\OLD (3)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (3).xnb</Output>
+      <Time>2014-08-14T16:29:26.313728+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\001.png</Source>
+      <Name>Images\Galaxy\Planet\Body\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\001.xnb</Output>
+      <Time>2014-08-14T19:37:30.71095+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\002.png</Source>
+      <Name>Images\Galaxy\Planet\Body\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002.xnb</Output>
+      <Time>2014-08-14T21:26:24.367428+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Body\003.png</Source>
+      <Name>Images\Galaxy\Planet\Body\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\003.xnb</Output>
+      <Time>2014-08-14T18:15:56.575409+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Overlay\001.png</Source>
+      <Name>Images\Galaxy\Planet\Overlay\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001.xnb</Output>
+      <Time>2014-08-14T21:02:23.007907+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Overlay\002.png</Source>
+      <Name>Images\Galaxy\Planet\Overlay\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\002.xnb</Output>
+      <Time>2014-08-14T18:33:29.144445+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Overlay\003.png</Source>
+      <Name>Images\Galaxy\Planet\Overlay\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\003.xnb</Output>
+      <Time>2014-08-14T18:36:55.530279+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\002.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\002.xnb</Output>
+      <Time>2014-10-09T06:59:29.299778+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\003.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\003.xnb</Output>
+      <Time>2014-10-09T06:59:31.123514+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Body\000.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Body\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Body\000.xnb</Output>
+      <Time>2014-02-21T10:21:42.576458+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Clouds\000.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Clouds\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\000.xnb</Output>
+      <Time>2014-02-21T10:21:48.545159+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Clouds\001.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Clouds\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\001.xnb</Output>
+      <Time>2014-10-12T20:37:11.591054+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Clouds\002.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Clouds\002</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\002.xnb</Output>
+      <Time>2014-10-12T20:38:26.750911+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Overlay\000.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Overlay\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\000.xnb</Output>
+      <Time>2014-02-21T10:22:05.955788+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Gas Giant\Overlay\001.png</Source>
+      <Name>Images\Galaxy\Gas Giant\Overlay\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\001.xnb</Output>
+      <Time>2014-02-21T10:22:04.006927+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Body\000.png</Source>
+      <Name>Images\Galaxy\Asteroid\Body\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000.xnb</Output>
+      <Time>2014-08-21T23:02:21.478647+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Overlay1\000.png</Source>
+      <Name>Images\Galaxy\Asteroid\Overlay1\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\000.xnb</Output>
+      <Time>2014-08-15T18:10:42.313915+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Overlay2\000.png</Source>
+      <Name>Images\Galaxy\Asteroid\Overlay2\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\000.xnb</Output>
+      <Time>2014-08-15T18:10:59.715242+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Overlay1\001.png</Source>
+      <Name>Images\Galaxy\Asteroid\Overlay1\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\001.xnb</Output>
+      <Time>2014-08-15T17:57:17.921615+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Overlay2\001.png</Source>
+      <Name>Images\Galaxy\Asteroid\Overlay2\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001.xnb</Output>
+      <Time>2014-08-21T23:06:00.032495+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Asteroid\Mask\000.png</Source>
+      <Name>Images\Galaxy\Asteroid\Mask\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Mask\000.xnb</Output>
+      <Time>2014-08-22T15:21:29.189817+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TimesNewRoman.bmp</Source>
+      <Name>Fonts\TimesNewRoman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\TimesNewRoman.xnb</Output>
+      <Time>2014-09-29T15:38:54.561932+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial.bmp</Source>
+      <Name>Fonts\Arial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Arial.xnb</Output>
+      <Time>2014-09-29T15:41:07.703235+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Helvetica.bmp</Source>
+      <Name>Fonts\Helvetica</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Helvetica.xnb</Output>
+      <Time>2014-09-29T16:22:00.874375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma.bmp</Source>
+      <Name>Fonts\Tahoma</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Tahoma.xnb</Output>
+      <Time>2014-09-29T15:45:18.902561+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial-Bold.bmp</Source>
+      <Name>Fonts\Arial-Bold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Arial-Bold.xnb</Output>
+      <Time>2014-09-29T16:48:58.606183+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial-BoldItalic.bmp</Source>
+      <Name>Fonts\Arial-BoldItalic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Arial-BoldItalic.xnb</Output>
+      <Time>2014-09-29T16:49:11.394863+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Arial-Italic.bmp</Source>
+      <Name>Fonts\Arial-Italic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Arial-Italic.xnb</Output>
+      <Time>2014-09-29T16:48:48.870445+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Helvetica-Bold.bmp</Source>
+      <Name>Fonts\Helvetica-Bold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Helvetica-Bold.xnb</Output>
+      <Time>2014-09-29T16:48:07.219537+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Helvetica-BoldItalic.bmp</Source>
+      <Name>Fonts\Helvetica-BoldItalic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Helvetica-BoldItalic.xnb</Output>
+      <Time>2014-09-29T16:48:18.436612+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Helvetica-Italic.bmp</Source>
+      <Name>Fonts\Helvetica-Italic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Helvetica-Italic.xnb</Output>
+      <Time>2014-09-29T16:47:56.997739+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma-Bold.bmp</Source>
+      <Name>Fonts\Tahoma-Bold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Tahoma-Bold.xnb</Output>
+      <Time>2014-09-29T16:49:45.857712+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma-BoldItalic.bmp</Source>
+      <Name>Fonts\Tahoma-BoldItalic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Tahoma-BoldItalic.xnb</Output>
+      <Time>2014-09-29T16:49:54.778575+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Tahoma-Italic.bmp</Source>
+      <Name>Fonts\Tahoma-Italic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\Tahoma-Italic.xnb</Output>
+      <Time>2014-09-29T16:49:35.734392+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TimesNewRoman-Bold.bmp</Source>
+      <Name>Fonts\TimesNewRoman-Bold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\TimesNewRoman-Bold.xnb</Output>
+      <Time>2014-09-29T16:50:29.965288+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TimesNewRoman-BoldItalic.bmp</Source>
+      <Name>Fonts\TimesNewRoman-BoldItalic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\TimesNewRoman-BoldItalic.xnb</Output>
+      <Time>2014-09-29T16:50:40.758117+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\TimesNewRoman-Italic.bmp</Source>
+      <Name>Fonts\TimesNewRoman-Italic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\TimesNewRoman-Italic.xnb</Output>
+      <Time>2014-09-29T16:50:20.637295+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Body\000.png</Source>
+      <Name>Images\Galaxy\Star\Body\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Star\Body\000.xnb</Output>
+      <Time>2014-05-09T01:30:26.713226+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Body\001.png</Source>
+      <Name>Images\Galaxy\Star\Body\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Star\Body\001.xnb</Output>
+      <Time>2014-10-01T20:16:04.428241+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Body\old (1).png</Source>
+      <Name>Images\Galaxy\Star\Body\old (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (1).xnb</Output>
+      <Time>2014-02-21T10:22:23.33739+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Body\old (2).png</Source>
+      <Name>Images\Galaxy\Star\Body\old (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (2).xnb</Output>
+      <Time>2014-02-21T10:22:21.672799+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Glow\000.png</Source>
+      <Name>Images\Galaxy\Star\Glow\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\000.xnb</Output>
+      <Time>2014-05-09T01:37:05.743266+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Glow\001.png</Source>
+      <Name>Images\Galaxy\Star\Glow\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\001.xnb</Output>
+      <Time>2014-10-01T20:10:00.358972+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Glow\old (1).png</Source>
+      <Name>Images\Galaxy\Star\Glow\old (1)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (1).xnb</Output>
+      <Time>2014-02-21T10:22:40.622899+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Glow\old (2).png</Source>
+      <Name>Images\Galaxy\Star\Glow\old (2)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (2).xnb</Output>
+      <Time>2014-02-21T10:22:38.90726+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Color\000.png</Source>
+      <Name>Images\Galaxy\Star\Color\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Star\Color\000.xnb</Output>
+      <Time>2014-10-01T21:14:44.509853+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Star\Color\001.png</Source>
+      <Name>Images\Galaxy\Star\Color\001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Star\Color\001.xnb</Output>
+      <Time>2014-10-01T21:15:04.281679+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\004.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\004</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\004.xnb</Output>
+      <Time>2014-10-09T07:01:05.373774+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Galaxy\Planet\Clouds\005.png</Source>
+      <Name>Images\Galaxy\Planet\Clouds\005</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\005.xnb</Output>
+      <Time>2014-10-09T07:02:29.420249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\1.spritefont</Source>
+      <Name>Fonts\1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\Fonts\1.xnb</Output>
+      <Time>2014-05-31T19:10:10.903147+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStompContent\</RootDirectory>
+      <LoggerRootDirectory>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\</LoggerRootDirectory>
+      <IntermediateDirectory>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStompContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>U:\[Sort]\My Media\Game Development\DevStomp\DevStomp\DevStomp\bin\x86\Debug\SharpTalk.dll</Key>
+        <Value>2014-07-20T03:18:18.057225+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-01-19T18:13:25.059262+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

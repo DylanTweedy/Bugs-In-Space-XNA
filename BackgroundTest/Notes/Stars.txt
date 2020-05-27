@@ -1,0 +1,47 @@
+1. Class O Star
+2. Class B Star
+3. Class A Star
+4. Class F Star
+5. Class G Star
+6. Class K Star
+7. Class M Star
+8. Class L Star
+9. Class T Star
+10. Class Y Star
+11. White Dwarf
+12. Wolf-Rayet Star
+13. Glorious Star
+14. Pulsar
+15. Neutron Star
+16. Quark Star
+17. Boson Star
+18. Quantum Star
+19. Translocation Star
+20. Ancient Core
+21. Ghost Star
+22. Rainbow Star
+23. Black Hole
+24. Protostar
+25. Glory Hole
+26. Elemental Core
+27. White Hole
+28. Sub-Space Rupture
+29. Organic Crux
+30. Corpus
+31. Quadrate Star
+32. Anti-Matter Star
+33. Wormhole
+34. Ring
+35. Magic
+36. Dark
+37. Volatile
+38. Poison
+39. Cold
+40. Thunder
+41. Planetary Nebula
+42. Supernova Nebula
+43. Portal
+
+
+
+

@@ -1,0 +1,83 @@
+
+BaseSkeleton.png
+size: 403,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Parts/Arm1
+  rotate: false
+  xy: 305, 46
+  size: 48, 16
+  orig: 64, 64
+  offset: 8, 24
+  index: -1
+Parts/Arm2
+  rotate: false
+  xy: 305, 32
+  size: 41, 12
+  orig: 64, 64
+  offset: 11, 26
+  index: -1
+Parts/Chest
+  rotate: true
+  xy: 2, 6
+  size: 56, 62
+  orig: 128, 128
+  offset: 36, 33
+  index: -1
+Parts/Foot
+  rotate: true
+  xy: 108, 4
+  size: 30, 16
+  orig: 32, 32
+  offset: 1, 8
+  index: -1
+Parts/Hand
+  rotate: false
+  xy: 355, 46
+  size: 24, 16
+  orig: 32, 32
+  offset: 4, 8
+  index: -1
+Parts/Head
+  rotate: true
+  xy: 66, 2
+  size: 32, 40
+  orig: 64, 64
+  offset: 16, 12
+  index: -1
+Parts/Leg1
+  rotate: true
+  xy: 66, 36
+  size: 26, 66
+  orig: 128, 128
+  offset: 51, 31
+  index: -1
+Parts/Leg2
+  rotate: true
+  xy: 134, 44
+  size: 18, 73
+  orig: 128, 128
+  offset: 55, 28
+  index: -1
+Parts/Neck
+  rotate: false
+  xy: 381, 40
+  size: 22, 22
+  orig: 32, 32
+  offset: 5, 5
+  index: -1
+Parts/Pelvis
+  rotate: false
+  xy: 209, 32
+  size: 48, 30
+  orig: 64, 64
+  offset: 8, 16
+  index: -1
+Parts/Stomach
+  rotate: false
+  xy: 259, 18
+  size: 44, 44
+  orig: 64, 64
+  offset: 10, 10
+  index: -1

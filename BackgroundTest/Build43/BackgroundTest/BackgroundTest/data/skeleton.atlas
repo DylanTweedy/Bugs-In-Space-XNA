@@ -1,0 +1,180 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beard1
+  rotate: false
+  xy: 224, 155
+  size: 170, 90
+  orig: 170, 90
+  offset: 0, 0
+  index: -1
+images/body1
+  rotate: false
+  xy: 396, 105
+  size: 155, 140
+  orig: 155, 140
+  offset: 0, 0
+  index: -1
+images/eyes1
+  rotate: true
+  xy: 732, 143
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+images/hair1
+  rotate: false
+  xy: 2, 145
+  size: 220, 100
+  orig: 220, 100
+  offset: 0, 0
+  index: -1
+images/head1
+  rotate: false
+  xy: 2, 8
+  size: 170, 135
+  orig: 170, 135
+  offset: 0, 0
+  index: -1
+images/iris1
+  rotate: false
+  xy: 837, 226
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+images/ldarm1
+  rotate: true
+  xy: 675, 94
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+images/ruarm1
+  rotate: true
+  xy: 675, 94
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+images/ldleg1
+  rotate: false
+  xy: 231, 76
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+images/ruleg1
+  rotate: false
+  xy: 231, 76
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+images/rdleg1
+  rotate: false
+  xy: 231, 76
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+images/luleg1
+  rotate: false
+  xy: 231, 76
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+images/leyebrow1
+  rotate: false
+  xy: 2, 2
+  size: 25, 4
+  orig: 25, 4
+  offset: 0, 0
+  index: -1
+images/reyebrow1
+  rotate: false
+  xy: 2, 2
+  size: 25, 4
+  orig: 25, 4
+  offset: 0, 0
+  index: -1
+images/lfoot1
+  rotate: false
+  xy: 258, 133
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+images/rfoot1
+  rotate: false
+  xy: 258, 133
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+images/lhand1
+  rotate: false
+  xy: 675, 163
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+images/luarm1
+  rotate: false
+  xy: 231, 113
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+images/rdarm1
+  rotate: false
+  xy: 231, 113
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+images/moustache1
+  rotate: false
+  xy: 750, 215
+  size: 85, 30
+  orig: 85, 30
+  offset: 0, 0
+  index: -1
+images/mouth1
+  rotate: false
+  xy: 903, 230
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+images/pelvis1
+  rotate: true
+  xy: 174, 3
+  size: 140, 55
+  orig: 140, 55
+  offset: 0, 0
+  index: -1
+images/rhand1
+  rotate: false
+  xy: 675, 121
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+weapons/weaponfirst1
+  rotate: false
+  xy: 553, 98
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+weapons/weaponsecond1
+  rotate: true
+  xy: 553, 205
+  size: 40, 195
+  orig: 40, 195
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,564 @@
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\SkinnerBox.exe
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\SkinnerBox.pdb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.csprojResolveAssemblyReference.cache
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.exe
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.pdb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\004.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\005.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000 - Copy.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Mask\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001 -.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Body\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002OLD.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\OLD000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\OLD001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\004.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\005.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Glow\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000OLD.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001OLD.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (1).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (2).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (3).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (1).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (2).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Color\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Color\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (1).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (2).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorBlack.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorBlock.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorPallette.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorWhite.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Boots\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Chest\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Gloves\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Head\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Pants\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\004.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\005.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\006.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\007.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Particles\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Large\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Medium\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\004.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\005.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\006.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\007.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\008.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\009.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\010.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Arrow.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Cursor.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Galaxy10.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Marker.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerCheckered.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerCircle.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerTriangle.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Rock.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField1.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField2.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\stars.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestCharacter.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestDust - Copy.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestDust.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestStar.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestStar2.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-Bold.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-BoldItalic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-Italic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-Bold.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-BoldItalic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-Italic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-Bold.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-BoldItalic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-Italic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-Bold.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-BoldItalic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-Italic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\1.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effect1.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\BloomCombine.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\BloomExtract.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\GaussianBlur.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\normalmap.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effects\DeferredCombined.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effects\MultiTarget.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\004.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\005.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000 - Copy.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Mask\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001 -.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Body\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002OLD.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\OLD000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\OLD001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\004.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\005.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Glow\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000OLD.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001OLD.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (1).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (2).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (3).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (1).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (2).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Color\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Color\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (1).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (2).xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorBlack.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorBlock.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorPallette.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorWhite.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Boots\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Chest\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Gloves\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Head\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Pants\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\004.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\005.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\006.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\007.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Particles\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Large\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Medium\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\000.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\001.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\002.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\003.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\004.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\005.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\006.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\007.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\008.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\009.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\010.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Arrow.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Cursor.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Galaxy10.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Marker.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerCheckered.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerCircle.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerTriangle.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Rock.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField1.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField2.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\stars.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestCharacter.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestDust - Copy.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestDust.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestStar.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestStar2.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-Bold.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-BoldItalic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-Italic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-Bold.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-BoldItalic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-Italic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-Bold.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-BoldItalic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-Italic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-Bold.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-BoldItalic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-Italic.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\1.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effect1.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\BloomCombine.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\BloomExtract.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\GaussianBlur.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\normalmap.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effects\DeferredCombined.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effects\MultiTarget.xnb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\SkinnerBox.exe
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\bin\x86\Debug\SkinnerBox.pdb
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.csprojResolveAssemblyReference.cache
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.exe
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.pdb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.csprojResolveAssemblyReference.cache
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.exe
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\002.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\003.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\004.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\005.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\002.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\003.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\002.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\003.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000 - Copy.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Mask\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001 -.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Body\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\002.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002OLD.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\003.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\OLD000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\OLD001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\002.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\003.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\004.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\005.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Glow\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000OLD.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001OLD.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\002.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\003.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (1).xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (2).xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (3).xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (1).xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (2).xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Color\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Color\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (1).xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (2).xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorBlack.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorBlock.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorPallette.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorWhite.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Boots\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Chest\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Gloves\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Head\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Pants\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\002.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\003.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\004.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\005.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\006.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\007.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Particles\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Large\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Medium\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\000.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\001.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\002.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\003.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\004.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\005.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\006.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\007.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\008.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\009.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\010.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Arrow.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Cursor.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Galaxy10.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Marker.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerCheckered.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerCircle.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerTriangle.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Rock.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField1.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField2.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\stars.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestCharacter.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestDust - Copy.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestDust.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestStar.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestStar2.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-Bold.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-BoldItalic.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-Italic.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-Bold.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-BoldItalic.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-Italic.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-Bold.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-BoldItalic.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-Italic.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-Bold.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-BoldItalic.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-Italic.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\1.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effect1.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\BloomCombine.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\BloomExtract.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\GaussianBlur.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\normalmap.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effects\DeferredCombined.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effects\MultiTarget.xnb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\SkinnerBox.exe
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\SkinnerBox.pdb
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.pdb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\002.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\003.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\004.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Back\005.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\002.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Big\003.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\002.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Background\Stars\Front\003.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000 - Copy.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Body\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Mask\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay1\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001 -.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Asteroid\Overlay2\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Body\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Clouds\002.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Gas Giant\Overlay\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\002OLD.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\003.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\OLD000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Body\OLD001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\002.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\003.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\004.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Clouds\005.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Glow\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\000OLD.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\001OLD.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\002.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Overlay\003.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (1).xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (2).xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Planet\Shadows\OLD (3).xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (1).xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Body\old (2).xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Color\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Color\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (1).xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Galaxy\Star\Glow\old (2).xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorBlack.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorBlock.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorPallette.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\InfoBox\ColorWhite.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Boots\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Chest\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Gloves\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Head\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Pants\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\002.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\003.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\004.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\005.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\006.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Items\Weapons\007.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Particles\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Large\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Medium\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\000.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\001.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\002.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\003.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\004.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\005.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\006.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\007.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\008.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\009.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\Projectiles\Small\010.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Arrow.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Cursor.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Galaxy10.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Marker.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerCheckered.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerCircle.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\MarkerTriangle.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\Rock.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField1.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\StarField2.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\stars.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestCharacter.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestDust - Copy.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestDust.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestStar.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Images\TestImages\TestStar2.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-Bold.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-BoldItalic.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Arial-Italic.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-Bold.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-BoldItalic.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica-Italic.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Helvetica.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-Bold.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-BoldItalic.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma-Italic.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\Tahoma.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-Bold.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-BoldItalic.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman-Italic.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\TimesNewRoman.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Fonts\1.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effect1.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\BloomCombine.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\BloomExtract.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\GaussianBlur.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\normalmap.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effects\DeferredCombined.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\Content\Effects\MultiTarget.xnb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\SkinnerBox.exe
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\bin\x86\Debug\SkinnerBox.pdb
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.csprojResolveAssemblyReference.cache
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.exe
+U:\[Sort]\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBox\obj\x86\Debug\SkinnerBox.pdb

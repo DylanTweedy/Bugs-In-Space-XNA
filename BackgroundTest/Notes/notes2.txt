@@ -1,0 +1,176 @@
+Make Stars a list
+
+Add a list of Nebulae, for WR stars. etc.
+
+Nebula - after explosion -> protostar
+
+Setup Element table
+
+Temperature -> Energy/Mass loss? -> Protostar pool
+Recalculate orbit of multiple star systems on scale change
+
+fix star clusters not orbiting together when one is out of view
+
+chemical components of a star
+chemical reactions?
+
+allow smooth running on any framerate.
+
+Increase performance on out zoom... Somehow
+
+debug information:
+Star Types in galaxy table.
+
+
+star rift
+
+Living stars
+
+Frame rate variable?
+Timescale - speed up and slowdown time.
+
+elements ------> transformations? star to black hole etc.
+
+wormholes
+
+
+Hawkin Radiation
+
+
+
+
+
+Black Hole Starship (wikipedia)
+
+Liquid floride-thorium generator.
+energyfromthorium.com
+
+
+
+intense puddle
+
+
+
+
+
+Hugo: Belt and buttons pre-coloured layer.
+
+Add other animations
+
+Track hand? for carriable objects? (Refer to Terraria)
+Terraria has alternate hand and leg animations you dick.
+
+split background into sectors. 
+Max of 25 stars per sector
+Star density decreases as distance from 0,0
+0,0 supermassive blackhole.
+You did the tile bullshit, this should be a piece of piss.
+
+dust prticles whilst sliding, braking, max velocity running.
+Spin Dash like ability "Dash"
+
+3x Max velocity collision causes hit effect.
+
+Walljump variable height, make this a thing. Is it already a thing?
+
+Wall climbing? Like Knuckles.
+
+Waiting animation. Make time variable, different characters can have different patience.
+
+Getting hit animation, might need to make a level for that though...
+
+THINGS TO DO
+OPTIMIZE! Turn of detectors when not moving?
+Try a Collision layer. Would be better than multiple tile layers...
+Work on ground collision, 'cause it's still kinda shit.
+Start work on Left and Right Sensors, don't forget to bring back the wall jump.
+Top Sensors, might need to do some map editing to test this though.
+
+3rd floor sensor for better angle calculation? - Nope.
+
+fix sliding at higher acceleration.
+fix jumping animation (hands too big)
+if possible refine wall jumping to be less slidy when coming on at Y 0.
+fix wall sliding animation.
+
+Should be able to calculate chunk and tile at the same time. Figure that shit out.
+TRy using both positions.
+also, try overlaying two game modes in the same position?
+
+superchunk.
+
+check left and right of sensor for heights. return angle that way? or...
+fix falling into the floor for a frame...
+
+Might need to make detector longer...
+if detector touches tile calculate depth. ;)
+alternatively allow characters to fit in small gaps. You don't really need to worry about this until you implement the head sensor.
+
+3 running animations. 1 for walking, 1 for running, 1 for super fast running. Only activate running after 7(subject to change) and super running at 16?
+
+MaxX speed equal to Horizontal sensor - 1;
+MaxY speed equal to Vertical sensor - 1;
+I don't even know why I wrote this. D:
+What does it mean? :/
+
+bullethole problem. normal collision detection, if speed > tilesize... Do something.
+Thought that said butthole. Heh.
+
+Sort out the massive RAM usage:
+Every tile has it's texture data saved within the chunk. Think of a way to load the textureData of a chunk as you get close to it?
+
+To compete with Terraria large world size in block you would need a 132 x 38 chunk world.
+That's 5016 chunks for a level. Although Terrarias blocks are half the size, so techincally yours would be twice as big...
+
+
+comways game of life (minutephysics? video)
+
+When X or Y speed is more than (find value) Lock camera a certain X or Y ahead.
+
+
+With no gravity have * 0.01 walking speed and the following possible abilities:
+jump off walls
+magnetic boots to stick to metal surfaces with 0.1 walking speed
+sticky boots to stick to any surface 0.3 walking speed.
+gecko boots to stick to any surface normal walking speed.
+jet pack/other items/body parts that improve the base 0.01 movement speed.
+grappling hook.
+
+
+maybe have world generate on a per-pixel basis?
+
+
+
+
+
+
+Lighting idea: Raycasting.
+
+have light source calculate rays when placed or moved.
+a tile will store which (if any) rays are touching it and which light source said ray belongs to.
+when a tile with a ray is broken that ray is recalculated.
+rays can be calculated at world generation if needed.
+
+
+
+
+
+Try two sensors for each side... This sounds like a stupid idea, lots of resorces needed... Worth a try if all else fails.
+
+Fix the god damn slope problem. Shouldn't be able to stand on slopes.
+Or run up slopes...
+Get the Left, Right and Up Sensors working correctly in all wallmodes.
+stupid ass slanty drops are stupid.
+If vel X is more than 0 when jumping from ceiling running rotation negative so he spins the other way.
+
+
+
+Max speed!
+
+
+
+Monday 2:30 Outpatient 2
+
+
+
+Linked entity multiplayer: A player can join as a "linked entity", doesn't have their own camera, instead they can posses any nearby character or lower DNA complexity and is then stuck to the main players field of view.

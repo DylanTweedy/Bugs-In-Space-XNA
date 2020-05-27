@@ -1,0 +1,9 @@
+Content\Audio\Audio.xgs
+Content\Audio\Misc Wave.xwb
+Content\Audio\Music Wave.xwb
+Content\Audio\Projectile Wave.xwb
+Content\Audio\Event Wave.xwb
+Content\Audio\Misc Sound.xsb
+Content\Audio\Music Sound.xsb
+Content\Audio\Projectile Sound.xsb
+Content\Audio\Event Sound.xsb

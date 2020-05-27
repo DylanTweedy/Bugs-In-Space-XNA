@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BD418B0A-4D47-4679-8048-FA47EDC5246A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Skeleton_Engine</RootNamespace>
+    <AssemblyName>Skeleton Engine</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MonoGamePlatform>Windows</MonoGamePlatform>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\$(MonoGamePlatform)\$(Platform)\$(Configuration)\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Engine\Camera\Camera.cs" />
+    <Compile Include="Engine\Debug\DebugInfo.cs" />
+    <Compile Include="Engine\Debug\Manager.cs" />
+    <Compile Include="Engine\Graphics\Graphics.cs" />
+    <Compile Include="Engine\Graphics\Position.cs" />
+    <Compile Include="Engine\Input\Input.cs" />
+    <Compile Include="Engine\UI\Fonts.cs" />
+    <Compile Include="Engine\UI\Textbox.cs" />
+    <Compile Include="Game1.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Fonts\1.xnb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Content\Fonts\Arial-Bold.bmp" />
+    <None Include="Content\Fonts\Arial-BoldItalic.bmp" />
+    <None Include="Content\Fonts\Arial-Italic.bmp" />
+    <None Include="Content\Fonts\Arial.bmp" />
+    <None Include="Content\Fonts\Helvetica-Bold.bmp" />
+    <None Include="Content\Fonts\Helvetica-BoldItalic.bmp" />
+    <None Include="Content\Fonts\Helvetica-Italic.bmp" />
+    <None Include="Content\Fonts\Helvetica.bmp" />
+    <None Include="Content\Fonts\Tahoma-Bold.bmp" />
+    <None Include="Content\Fonts\Tahoma-BoldItalic.bmp" />
+    <None Include="Content\Fonts\Tahoma-Italic.bmp" />
+    <None Include="Content\Fonts\Tahoma.bmp" />
+    <None Include="Content\Fonts\TimesNewRoman-Bold.bmp" />
+    <None Include="Content\Fonts\TimesNewRoman-BoldItalic.bmp" />
+    <None Include="Content\Fonts\TimesNewRoman-Italic.bmp" />
+    <None Include="Content\Fonts\TimesNewRoman.bmp" />
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="Content\Content.mgcb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Engine\Physics\" />
+    <Folder Include="Libraries\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

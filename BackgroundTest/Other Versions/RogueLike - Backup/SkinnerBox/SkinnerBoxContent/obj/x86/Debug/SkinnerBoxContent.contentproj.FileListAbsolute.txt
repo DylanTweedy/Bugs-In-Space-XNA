@@ -1,0 +1,6 @@
+B:\My Media\Game Development\SkinnerBox\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\SkinnerBoxContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\SkinnerBox\SkinnerBox Build1\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\SkinnerBoxContent.contentprojResolveAssemblyReference.cache
+B:\My Media\Game Development\SkeletonEngine\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\SkinnerBoxContent.contentprojResolveAssemblyReference.cache
+F:\Game\SkeletonEngine\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\SkinnerBoxContent.contentprojResolveAssemblyReference.cache
+F:\Game\RogueLike\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\SkinnerBoxContent.contentprojResolveAssemblyReference.cache
+S:\Users\Administrator\Dropbox\Game\RogueLike\SkinnerBox\SkinnerBoxContent\obj\x86\Debug\SkinnerBoxContent.contentprojResolveAssemblyReference.cache

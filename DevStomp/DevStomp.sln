@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStomp", "DevStomp\DevStomp\DevStomp.csproj", "{9A600A43-908D-49C6-8339-FE03F26A1F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStompContent", "DevStomp\DevStompContent\DevStompContent.contentproj", "{49C1786C-FF4F-4D56-9DAF-9CCF23A72CC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A600A43-908D-49C6-8339-FE03F26A1F21}.Debug|x86.ActiveCfg = Debug|x86
+		{9A600A43-908D-49C6-8339-FE03F26A1F21}.Debug|x86.Build.0 = Debug|x86
+		{9A600A43-908D-49C6-8339-FE03F26A1F21}.Release|x86.ActiveCfg = Release|x86
+		{9A600A43-908D-49C6-8339-FE03F26A1F21}.Release|x86.Build.0 = Release|x86
+		{49C1786C-FF4F-4D56-9DAF-9CCF23A72CC7}.Debug|x86.ActiveCfg = Debug|x86
+		{49C1786C-FF4F-4D56-9DAF-9CCF23A72CC7}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,243 @@
+
+skeleton2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jack/Parts/Head
+  rotate: false
+  xy: 247, 43
+  size: 71, 80
+  orig: 89, 82
+  offset: 8, 0
+  index: -1
+Jack/Parts/LeftArmDown
+  rotate: true
+  xy: 483, 61
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+Jack/Parts/LeftArmUp
+  rotate: false
+  xy: 175, 36
+  size: 70, 87
+  orig: 81, 87
+  offset: 5, 0
+  index: -1
+Jack/Parts/LeftFoot
+  rotate: false
+  xy: 214, 6
+  size: 35, 28
+  orig: 35, 29
+  offset: 0, 1
+  index: -1
+Jack/Parts/LeftLegDown
+  rotate: true
+  xy: 693, 205
+  size: 49, 97
+  orig: 49, 97
+  offset: 0, 0
+  index: -1
+Jack/Parts/LeftLegUp
+  rotate: true
+  xy: 889, 206
+  size: 48, 95
+  orig: 54, 95
+  offset: 0, 0
+  index: -1
+Jack/Parts/Lefthand
+  rotate: false
+  xy: 580, 82
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+Jack/Parts/Pelvis
+  rotate: false
+  xy: 792, 200
+  size: 95, 54
+  orig: 95, 54
+  offset: 0, 0
+  index: -1
+Jack/Parts/RightArmDown
+  rotate: true
+  xy: 400, 62
+  size: 50, 81
+  orig: 50, 86
+  offset: 0, 1
+  index: -1
+Jack/Parts/RightArmUp
+  rotate: true
+  xy: 320, 50
+  size: 62, 78
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+Jack/Parts/RightFoot
+  rotate: true
+  xy: 175, 2
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Jack/Parts/RightHand
+  rotate: false
+  xy: 606, 85
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+Jack/Parts/RightLegDown
+  rotate: true
+  xy: 496, 114
+  size: 41, 103
+  orig: 44, 103
+  offset: 3, 0
+  index: -1
+Jack/Parts/RightLegUp
+  rotate: false
+  xy: 124, 19
+  size: 49, 98
+  orig: 49, 98
+  offset: 0, 0
+  index: -1
+Jack/Parts/Torso
+  rotate: true
+  xy: 174, 125
+  size: 129, 163
+  orig: 129, 176
+  offset: 0, 8
+  index: -1
+images/body1
+  rotate: false
+  xy: 339, 114
+  size: 155, 140
+  orig: 155, 140
+  offset: 0, 0
+  index: -1
+images/head1
+  rotate: false
+  xy: 2, 119
+  size: 170, 135
+  orig: 170, 135
+  offset: 0, 0
+  index: -1
+images/ldarm1
+  rotate: false
+  xy: 986, 214
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+images/ruarm1
+  rotate: false
+  xy: 986, 214
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+images/ldleg1
+  rotate: false
+  xy: 658, 120
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+images/ruleg1
+  rotate: false
+  xy: 658, 120
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+images/rdleg1
+  rotate: false
+  xy: 658, 120
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+images/luleg1
+  rotate: false
+  xy: 658, 120
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+images/leyebrow1
+  rotate: false
+  xy: 889, 200
+  size: 25, 4
+  orig: 25, 4
+  offset: 0, 0
+  index: -1
+images/reyebrow1
+  rotate: false
+  xy: 889, 200
+  size: 25, 4
+  orig: 25, 4
+  offset: 0, 0
+  index: -1
+images/lfoot1
+  rotate: true
+  xy: 630, 83
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+images/rfoot1
+  rotate: true
+  xy: 630, 83
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+images/lhand1
+  rotate: true
+  xy: 638, 157
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+images/luarm1
+  rotate: false
+  xy: 553, 72
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+images/rdarm1
+  rotate: false
+  xy: 553, 72
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+images/pelvis1
+  rotate: false
+  xy: 496, 157
+  size: 140, 55
+  orig: 140, 55
+  offset: 0, 0
+  index: -1
+images/rhand1
+  rotate: false
+  xy: 601, 115
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+weapons/weaponfirst1
+  rotate: false
+  xy: 2, 12
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+weapons/weaponsecond1
+  rotate: true
+  xy: 496, 214
+  size: 40, 195
+  orig: 40, 195
+  offset: 0, 0
+  index: -1

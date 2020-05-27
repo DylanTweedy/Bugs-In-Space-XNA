@@ -1,0 +1,20 @@
+
+Leg.png
+size: 28,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Parts/Leg1
+  rotate: false
+  xy: 2, 77
+  size: 26, 66
+  orig: 128, 128
+  offset: 51, 31
+  index: -1
+Parts/Leg2
+  rotate: false
+  xy: 2, 2
+  size: 18, 73
+  orig: 128, 128
+  offset: 55, 28
+  index: -1

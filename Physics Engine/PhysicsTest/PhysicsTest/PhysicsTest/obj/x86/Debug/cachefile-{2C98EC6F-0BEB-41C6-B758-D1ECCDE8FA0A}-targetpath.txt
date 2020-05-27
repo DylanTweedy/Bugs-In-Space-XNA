@@ -1,0 +1,4 @@
+Content\Images\Marker.xnb
+Content\Images\Marker3.xnb
+Content\Images\Marker2.xnb
+Content\Images\MarkerTexture.xnb
